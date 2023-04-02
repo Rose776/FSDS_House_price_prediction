@@ -13,3 +13,9 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+
+## if any error on commit 
+```
+git add .
+git commit -m "Initial commit"
+```
